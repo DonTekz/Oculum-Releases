@@ -62,7 +62,7 @@
 │                                     │
 │ 📋 BASIS-TAB (👹)                  │
 │   • Name & Bild des Monsters        │
-│   • Herausforderungsgrad (CR)       ���
+│   • Herausforderungsgrad (CR)       │
 │   • Größe & Kreaturentyp            │
 │   • Gesinnung & Sprachen            │
 │   • XP-Berechnung automatisch       │
@@ -81,7 +81,7 @@
 │   • Immunitäten                     │
 │   • Besondere Fähigkeiten (Traits)  │
 │                                     │
-│ 🔥 AKTIONEN-TAB (🔥)              │
+│ 🔥 AKTIONEN-TAB (🔥)               │
 │   • Normale Aktionen                │
 │   • Reaktionen                      │
 │   • Legendäre Aktionen              │
