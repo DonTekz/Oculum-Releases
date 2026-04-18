@@ -305,7 +305,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 ├─ ⏳ Dokumentation finalisieren
 ├─ ⏳ Größere Beta-Nutzergruppe
 ├─ ⏳ Marketing & Outreach
-└─ ⏳ Version 1.0.0 Release
+└─ ⏳ Version 1.2.0 Release
 
 2027 🌟  ░░░░░░░░░░   0% TRÄUME
 ├─ 💭 Native Mobile Apps (iOS/Android)
@@ -606,7 +606,7 @@ Q4 2026  ██░░░░░░░░  10% PLANNED
 ├─ ⏳ Finalize documentation
 ├─ ⏳ Expand beta user group
 ├─ ⏳ Marketing & outreach
-└─ ⏳ Version 1.0.0 release
+└─ ⏳ Version 1.2.0 release
 
 2027 🌟  ░░░░░░░░░░   0% DREAMS
 ├─ 💭 Native mobile apps (iOS/Android)
