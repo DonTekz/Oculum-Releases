@@ -25,19 +25,19 @@
 ### 🔮 **Überblick**
 
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃   ⚔️ OCULUM RPG TOOLSET ⚔️         ┃
-┃                                    ┃
-┃   "Schmiede dein Schicksal"        ┃
-┃                                    ┃
-┃   🎲 RPG Helper     ┃
-┃   🤖 KI-Assistent integriert       ┃
-┃   👥 Multiplayer-fähig             ┃
-┃   🎨 Fantasy-Design inkl.          ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+   ⚔️ OCULUM RPG TOOLSET ⚔️         
+                                    
+   "Schmiede dein Schicksal"        
+                                    
+   🎲 RPG Helper     
+   🤖 KI-Assistent integriert       
+   👥 Multiplayer-fähig             
+   🎨 Fantasy-Design inkl.          
+
 ```
 
-**Oculum** ist ein umfassendes **RPG-Management-Tool** Tabletop-Rollenspiele. Mit diesem Beta-Toolset kannst du:
+**Oculum** ist ein umfassendes **RPG-Management-Tool** für Tabletop-Rollenspiele. Mit diesem Beta-Toolset kannst du:
 
 - 🐉 **Kreaturen erstellen** (Monster, NPCs, Bosse)
 - ⚔️ **Gegenstände & Items** designen
@@ -56,51 +56,51 @@
 #### 🐉 **1. Creature Creator - Kreaturen erstellen**
 
 ```
-┌─────────────────────────────────────┐
-│ KREATUR EDITOR                      │
-├─────────────────────────────────────┤
-│                                     │
-│ 📋 BASIS-TAB (👹)                  │
-│   • Name & Bild des Monsters        │
-│   • Herausforderungsgrad (CR)       │
-│   • Größe & Kreaturentyp            │
-│   • Gesinnung & Sprachen            │
-│   • XP-Berechnung automatisch       │
-│                                     │
-│ ⚔️ WERTE-TAB (⚔️)                  │
-│   • 6 Attribute (STR, DEX, CON...)  │
-│   • Armor Class (AC)                │
-│   • Trefferpunkte (HP)              │
-│   • Geschwindigkeit                 │
-│   • Sinne (Darkvision, etc.)        │
-│                                     │
-│ ✨ FÄHIGKEITEN-TAB (✨)            │
-│   • Rettungswürfe                   │
-│   • Fertigkeiten                    │
-│   • Schwachstellen & Resistenzen    │
-│   • Immunitäten                     │
-│   • Besondere Fähigkeiten (Traits)  │
-│                                     │
-│ 🔥 AKTIONEN-TAB (🔥)               │
-│   • Normale Aktionen                │
-│   • Reaktionen                      │
-│   • Legendäre Aktionen              │
-│   • Hortaktionen (Lair Actions)     │
-│   • Damage-Berechnung               │
-│                                     │
-│ 📜 LORE-TAB (📜)                   │
-│   • Beschreibung (intern)           │
-│   • Begegnungstext (zum Vorlesen)   │
-│   • Loot & Drops                    │
-│   • Münzen/Währung                  │
-│   • 🤖 AI-generierter Loot/Lore    │
-│                                     │
-│ 🎯 ZUSÄTZE:                        │
-│   • KI: Monster (Stats & Lore)      │
-│   • Preview anzeigen                │
-│   • Clear/Leeren Button             │
-│   • Speichern                       │
-└─────────────────────────────────────┘
+
+ KREATUR EDITOR                      
+
+                                     
+ 📋 BASIS-TAB (👹)                  
+   • Name & Bild des Monsters        
+   • Herausforderungsgrad (CR)       
+   • Größe & Kreaturentyp            
+   • Gesinnung & Sprachen            
+   • XP-Berechnung automatisch       
+                                     
+ ⚔️ WERTE-TAB (⚔️)                  
+   • 6 Attribute (STR, DEX, CON...)  
+   • Armor Class (AC)                
+   • Trefferpunkte (HP)              
+   • Geschwindigkeit                 
+   • Sinne (Darkvision, etc.)        
+                                     
+ ✨ FÄHIGKEITEN-TAB (✨)            
+   • Rettungswürfe                   
+   • Fertigkeiten                    
+   • Schwachstellen & Resistenzen    
+   • Immunitäten                     
+   • Besondere Fähigkeiten (Traits)  
+                                     
+ 🔥 AKTIONEN-TAB (🔥)              
+   • Normale Aktionen                
+   • Reaktionen                      
+   • Legendäre Aktionen              
+   • Hortaktionen (Lair Actions)     
+   • Damage-Berechnung               
+                                     
+ 📜 LORE-TAB (📜)                   
+   • Beschreibung (intern)           
+   • Begegnungstext (zum Vorlesen)   
+   • Loot & Drops                    
+   • Münzen/Währung                  
+   • 🤖 AI-generierter Loot/Lore    
+                                     
+ 🎯 ZUSÄTZE:                        
+   • KI: Monster (Stats & Lore)      
+   • Preview anzeigen                
+   • Clear/Leeren Button             
+   • Speichern                       
+
 ```
 
 #### 🗡️ **2. Item Creator - Gegenstände designen**
@@ -155,25 +155,25 @@
 ### 🤖 **KI-Integration (Groq API - 100% kostenlos)**
 
 ```
-┌─────────────────────────────────────┐
-│ 🤖 AI-DUNGEON-MASTER-ASSISTENT     │
-│                                     │
-│ Schnell-Buttons:                    │
-│ 💡 Plot-Twist                       │
-│ 🎭 NPC-Idee                        │
-│ ⚔️ Encounter Generator              │
-│ 🧩 Rätsel & Puzzle                  │
-│ 💰 Loot-Generierung                 │
-│ 🗣️ Dialog-Ideen                     │
-│                                     │
-│ + Freie Prompts möglich!            │
-│                                     │
-│ Features:                           │
-│ • Contextual AI (bezieht Kontext)   │
-│ • Offline-Modelle optional          │
-│ • Mistral AI für lokale Nutzung     │
-│ • Real-time Streaming Responses     │
-└─────────────────────────────────────┘
+
+ 🤖 AI-DUNGEON-MASTER-ASSISTENT     
+                                     
+ Schnell-Buttons:                    
+ 💡 Plot-Twist                       
+ 🎭 NPC-Idee                        
+ ⚔️ Encounter Generator              
+ 🧩 Rätsel & Puzzle                  
+ 💰 Loot-Generierung                 
+ 🗣️ Dialog-Ideen                     
+                                     
+ + Freie Prompts möglich!            
+                                     
+ Features:                           
+ • Contextual AI (bezieht Kontext)   
+ • Offline-Modelle optional          
+ • Mistral AI für lokale Nutzung     
+ • Real-time Streaming Responses     
+
 ```
 
 ---
@@ -181,27 +181,27 @@
 ### 🎨 **Visual Design System (4 Themes)**
 
 ```
-┌──────────────────────────────────────┐
-│  THEME SELECTION                     │
-├──────────────────────────────────────┤
-│                                      │
-│ 📚 Magier-Bibliothek (Mage Library) │
-│    → Blaue Töne, magisch            │
-│    → Bücherregale & Arkane Symbole  │
-│                                      │
-│ ⚒️  Zwergen-Schmiede (Dwarf Forge)  │
-│    → Rote & Orange Töne             │
-│    → Metall & Feuer-Effekte         │
-│                                      │
-│ 🌿 Elfen-Laube (Elf Grove)          │
-│    → Grüne & Gold Töne              │
-│    → Natur & Waldthema              │
-│                                      │
-│ 📜 Pergament (Parchment)            │
-│    → Klassisches Beige/Braun        │
-│    → Altpapier-Look                 │
-│                                      │
-└──────────────────────────────────────┘
+
+  THEME SELECTION                     
+
+                                      
+ 📚 Magier-Bibliothek (Mage Library) 
+    → Blaue Töne, magisch            
+    → Bücherregale & Arkane Symbole  
+                                      
+ ⚒️  Zwergen-Schmiede (Dwarf Forge)  
+    → Rote & Orange Töne             
+    → Metall & Feuer-Effekte         
+                                      
+ 🌿 Elfen-Laube (Elf Grove)          
+    → Grüne & Gold Töne              
+    → Natur & Waldthema              
+                                      
+ 📜 Pergament (Parchment)            
+    → Klassisches Beige/Braun        
+    → Altpapier-Look                 
+                                      
+└┘
 ```
 
 ---
@@ -222,17 +222,17 @@
 ### ⚙️ **Technical Stack**
 
 ```
-┌────────────────────────────────────┐
-│ SPRACHZUSAMMENSETZUNG              │
-├────────────────────────────────────┤
-│                                    │
-│ JavaScript   ████████░░  64.8%    │
-│ CSS          ██████░░░░  20.2%    │
-│ HTML         ███░░░░░░░  10.5%    │
-│ Python       ██░░░░░░░░   4.3%    │
-│ Inno Setup   ░░░░░░░░░░   0.2%    │
-│                                    │
-└────────────────────────────────────┘
+
+ SPRACHZUSAMMENSETZUNG              
+
+                                    
+ JavaScript   ████████░░  64.8%    
+ CSS          ██████░░░░  20.2%    
+ HTML         ███░░░░░░░  10.5%    
+ Python       ██░░░░░░░░   4.3%    
+ Inno Setup   ░░░░░░░░░░   0.2%    
+                                    
+└┘
 ```
 
 **Technologien:**
@@ -250,7 +250,7 @@
 
 ```
 ╔════════════════════════════════════╗
-║ 🔴 KRITISCHE PROBLEME              ║
+ 🔴 KRITISCHE PROBLEME              
 ╚════════════════════════════════════╝
 
 • KI-API-Timeouts bei großen Requests
@@ -258,7 +258,7 @@
   → Lösung: Timeout-Handling (Q2 2026)
 
 ╔════════════════════════════════════╗
-║ 🟠 WICHTIGE PROBLEME               ║
+ 🟠 WICHTIGE PROBLEME               
 ╚════════════════════════════════════╝
 
 • Lobby-Instabilität bei vielen Spielern
@@ -274,7 +274,7 @@
   → Lösung: Laufende Ergänzung
 
 ╔════════════════════════════════════╗
-║ 🟡 MINOR-PROBLEME                  ║
+ 🟡 MINOR-PROBLEME                  
 ╚════════════════════════════════════╝
 
 • Einige UI-Elemente bei niedriger Auflösung
@@ -326,19 +326,19 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 ### 🔮 **Overview**
 
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃   ⚔️ OCULUM RPG TOOLSET ⚔️         ┃
-┃                                    ┃
-┃   "Forge Your Destiny"             ┃
-┃                                    ┃
-┃   🎲 RPG Helper     ┃
-┃   🤖 AI-Assistant Integrated       ┃
-┃   👥 Multiplayer-Ready             ┃
-┃   🎨 Fantasy Design Included       ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+   ⚔️ OCULUM RPG TOOLSET ⚔️         
+                                    
+   "Forge Your Destiny"             
+                                    
+   🎲 RPG Helper     
+   🤖 AI-Assistant Integrated       
+   👥 Multiplayer-Ready             
+   🎨 Fantasy Design Included       
+
 ```
 
-**Oculum** is a comprehensive **RPG Management Tool** designed tabletop role-playing games. With this Beta toolset, you can:
+**Oculum** is a comprehensive **RPG Management Tool** designed for tabletop role-playing games. With this Beta toolset, you can:
 
 - 🐉 **Create Creatures** (Monsters, NPCs, Bosses)
 - ⚔️ **Design Items & Loot**
@@ -357,51 +357,51 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 #### 🐉 **1. Creature Creator - Design Monsters**
 
 ```
-┌─────────────────────────────────────┐
-│ CREATURE EDITOR                     │
-├─────────────────────────────────────┤
-│                                     │
-│ 📋 BASIS TAB (👹)                  │
-│   • Monster name & image            │
-│   • Challenge rating (CR)           │
-│   • Size & creature type            │
-│   • Alignment & languages           │
-│   • XP calculation (automatic)      │
-│                                     │
-│ ⚔️ STATS TAB (⚔️)                  │
-│   • 6 Attributes (STR, DEX, CON)    │
-│   • Armor Class (AC)                │
-│   • Hit Points (HP)                 │
-│   • Movement Speed                  │
-│   • Senses (Darkvision, etc.)       │
-│                                     │
-│ ✨ SKILLS TAB (✨)                 │
-│   • Saving throws                   │
-│   • Skills                          │
-│   • Vulnerabilities & resistances   │
-│   • Immunities                      │
-│   • Special traits & abilities      │
-│                                     │
-│ 🔥 ACTIONS TAB (🔥)                │
-│   • Regular actions                 │
-│   • Reactions                       │
-│   • Legendary actions               │
-│   • Lair actions                    │
-│   • Damage calculation              │
-│                                     │
-│ 📜 LORE TAB (📜)                   │
-│   • Internal description            │
-│   • Encounter text (to read aloud)  │
-│   • Loot & drops                    │
-│   • Coins/currency                  │
-│   • 🤖 AI-generated loot/lore       │
-│                                     │
-│ 🎯 EXTRAS:                         │
-│   • AI: Monster (Stats & Lore)      │
-│   • Show preview                    │
-│   • Clear button                    │
-│   • Save                            │
-└─────────────────────────────────────┘
+
+ CREATURE EDITOR                     
+
+                                     
+ 📋 BASIS TAB (👹)                  
+   • Monster name & image            
+   • Challenge rating (CR)           
+   • Size & creature type            
+   • Alignment & languages           
+   • XP calculation (automatic)      
+                                     
+ ⚔️ STATS TAB (⚔️)                  
+   • 6 Attributes (STR, DEX, CON)   
+   • Armor Class (AC)                
+   • Hit Points (HP)                 
+   • Movement Speed                  
+   • Senses (Darkvision, etc.)       
+                                     
+ ✨ SKILLS TAB (✨)                 
+   • Saving throws                   
+   • Skills                          
+   • Vulnerabilities & resistances   
+   • Immunities                      
+   • Special traits & abilities      
+                                     
+ 🔥 ACTIONS TAB (🔥)               
+   • Regular actions                 
+   • Reactions                       
+   • Legendary actions               
+   • Lair actions                    
+   • Damage calculation              
+                                     
+ 📜 LORE TAB (📜)                   
+   • Internal description            
+   • Encounter text (to read aloud)  
+   • Loot & drops                    
+   • Coins/currency                  
+   • 🤖 AI-generated loot/lore      
+                                     
+ 🎯 EXTRAS:                          
+   • AI: Monster (Stats & Lore)      
+   • Show preview                    
+   • Clear button                    
+   • Save                            
+
 ```
 
 #### 🗡️ **2. Item Creator - Design Equipment**
@@ -456,25 +456,25 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 ### 🤖 **AI Integration (Groq API - 100% Free)**
 
 ```
-┌─────────────────────────────────────┐
-│ 🤖 AI-DUNGEON-MASTER-ASSISTANT      │
-│                                     │
-│ Quick Buttons:                      │
-│ 💡 Plot Twist                       │
-│ 🎭 NPC Idea                         │
-│ ⚔️ Encounter Generator              │
-│ 🧩 Puzzles & Riddles                │
-│ 💰 Loot Generation                  │
-│ 🗣️ Dialog Ideas                     │
-│                                     │
-│ + Custom prompts possible!          │
-│                                     │
-│ Features:                           │
-│ • Contextual AI (pulls context)     │
-│ • Optional offline models           │
-│ • Mistral AI for local use          │
-│ • Real-time streaming responses     │
-└─────────────────────────────────────┘
+
+ 🤖 AI-DUNGEON-MASTER-ASSISTANT     
+                                     
+ Quick Buttons:                      
+ 💡 Plot Twist                       
+ 🎭 NPC Idea                        
+ ⚔️ Encounter Generator              
+ 🧩 Puzzles & Riddles                
+ 💰 Loot Generation                  
+ 🗣️ Dialog Ideas                     
+                                     
+ + Custom prompts possible!          
+                                     
+ Features:                           
+ • Contextual AI (pulls context)     
+ • Optional offline models           
+ • Mistral AI for local use          
+ • Real-time streaming responses     
+
 ```
 
 ---
@@ -482,27 +482,27 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 ### 🎨 **Visual Design System (4 Themes)**
 
 ```
-┌──────────────────────────────────────┐
-│  THEME SELECTION                     │
-├──────────────────────────────────────┤
-│                                      │
-│ 📚 Mage Library                      │
-│    → Blue tones, magical             │
-│    → Bookshelves & arcane symbols    │
-│                                      │
-│ ⚒️  Dwarf Forge                      │
-│    → Red & orange tones              │
-│    → Metal & fire effects            │
-│                                      │
-│ 🌿 Elf Grove                         │
-│    → Green & gold tones              │
-│    → Nature & woodland theme         │
-│                                      │
-│ 📜 Parchment                         │
-│    → Classic beige/brown             │
-│    → Old paper look                  │
-│                                      │
-└──────────────────────────────────────┘
+
+  THEME SELECTION                     
+
+                                      
+ 📚 Mage Library                      
+    → Blue tones, magical             
+    → Bookshelves & arcane symbols    
+                                      
+ ⚒️  Dwarf Forge                      
+    → Red & orange tones              
+    → Metal & fire effects            
+                                      
+ 🌿 Elf Grove                         
+    → Green & gold tones              
+    → Nature & woodland theme         
+                                      
+ 📜 Parchment                         
+    → Classic beige/brown             
+    → Old paper look                  
+                                      
+└┘
 ```
 
 ---
@@ -523,17 +523,17 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 ### ⚙️ **Technical Stack**
 
 ```
-┌────────────────────────────────────┐
-│ LANGUAGE COMPOSITION               │
-├────────────────────────────────────┤
-│                                    │
-│ JavaScript   ████████░░  64.8%    │
-│ CSS          ██████░░░░  20.2%    │
-│ HTML         ███░░░░░░░  10.5%    │
-│ Python       ██░░░░░░░░   4.3%    │
-│ Inno Setup   ░░░░░░░░░░   0.2%    │
-│                                    │
-└────────────────────────────────────┘
+
+ LANGUAGE COMPOSITION               
+
+                                    
+ JavaScript   ████████░░  64.8%    
+ CSS          ██████░░░░  20.2%    
+ HTML         ███░░░░░░░  10.5%    
+ Python       ██░░░░░░░░   4.3%    
+ Inno Setup   ░░░░░░░░░░   0.2%    
+                                    
+└┘
 ```
 
 **Technologies:**
@@ -551,7 +551,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 
 ```
 ╔════════════════════════════════════╗
-║ 🔴 CRITICAL ISSUES                 ║
+ 🔴 CRITICAL ISSUES                 
 ╚════════════════════════════════════╝
 
 • AI API timeouts on large requests
@@ -559,7 +559,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
   → Solution: Timeout handling (Q2 2026)
 
 ╔════════════════════════════════════╗
-║ 🟠 IMPORTANT ISSUES                ║
+ 🟠 IMPORTANT ISSUES                
 ╚════════════════════════════════════╝
 
 • Lobby instability with many players
@@ -575,7 +575,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
   → Solution: Ongoing improvements
 
 ╔════════════════════════════════════╗
-║ 🟡 MINOR ISSUES                    ║
+ 🟡 MINOR ISSUES                    
 ╚════════════════════════════════════╝
 
 • UI elements at low resolutions
@@ -624,21 +624,21 @@ Q4 2026  ██░░░░░░░░  10% PLANNED
 
 ```
 ╔════════════════════════════════════╗
-║          📞 CONTACT US             ║
+          📞 CONTACT US             
 ╠════════════════════════════════════╣
-║                                    ║
-║ 📧 Email:                          ║
-║    support@oculum-test.com         ║
-║                                    ║
-║ 💬 Discord:                        ║
-║    discord.gg/oculum              ║
-║                                    ║
-║ 🐛 Issues:                         ║
-║    GitHub Issues Tracker           ║
-║                                    ║
-║ 📖 Docs:                           ║
-║    wiki/documentation              ║
-║                                    ║
+                                    
+ 📧 Email:                          
+    support@oculum-test.com         
+                                    
+ 💬 Discord:                        
+    discord.gg/oculum              
+                                    
+ 🐛 Issues:                         
+    GitHub Issues Tracker           
+                                    
+ 📖 Docs:                           
+    wiki/documentation              
+                                    
 ╚════════════════════════════════════╝
 ```
 
