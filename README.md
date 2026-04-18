@@ -46,7 +46,7 @@
 - 📖 **Geschichten & Kampagnen** schreiben
 - 🎲 **Würfler & Token-Generator** nutzen
 - 🤖 **KI-Dungeon-Master** für Inspiration
-- 📡 **Multiplayer-Lobby** für Spieler-Sessions
+- 📡 **Multiplayer-Lobby** für Spieler-Sessions ( in Progress )
 - 🎨 **4 visuelle Themes** zum Wechseln
 
 ---
@@ -213,7 +213,7 @@
 | 🎲 **Würfel-Gott** | Dice Roller | d4, d6, d8, d10, d12, d20 + custom |
 | 🪙 **Token-Schmied** | Token Generator | Runde Tokens mit Rahmen-Styles |
 | 📡 **Live Übertragung** | DM Broadcast | Zeige Bilder & NPCs für Spieler |
-| 👥 **Player Lobby** | Multiplayer | Spieler-Sessions in Echtzeit |
+| 👥 **Player Lobby** | Multiplayer | Spieler-Sessions in Echtzeit | ( in Progress )
 | 💾 **Archiv** | Backup/Export | JSON Export & Import |
 | 🌍 **Sprach-System** | Localization | Deutsch & English |
 
@@ -237,7 +237,7 @@
 
 **Technologien:**
 - 🌐 **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
-- 🔗 **Multiplayer:** Socket.IO für Real-Time Communication
+- 🔗 **Multiplayer:** Socket.IO für Real-Time Communication ( in Progress )
 - 🤖 **AI:** Groq API (kostenlosen LLM-Service)
 - 🎨 **UI Libraries:** Marked.js (Markdown), Tone.js (Audio)
 - 📱 **Responsive:** Mobile-optimiert
@@ -333,7 +333,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
                                     
    🎲 RPG Helper     
    🤖 AI-Assistant Integrated       
-   👥 Multiplayer-Ready             
+   👥 Multiplayer-Ready ( in Progress )            
    🎨 Fantasy Design Included       
 
 ```
@@ -347,7 +347,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 - 📖 **Write Stories & Campaigns**
 - 🎲 **Use Dice Roller & Token Generator**
 - 🤖 **Get AI-DM Inspiration**
-- 📡 **Run Multiplayer Sessions**
+- 📡 **Run Multiplayer Sessions** ( in Progress )
 - 🎨 **Switch Between 4 Visual Themes**
 
 ---
@@ -514,7 +514,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 | 🎲 **Dice Roller** | Dice God | d4, d6, d8, d10, d12, d20 + custom |
 | 🪙 **Token Smith** | Token Generator | Round tokens with border styles |
 | 📡 **Live Broadcast** | DM Stream | Show images & NPCs to players |
-| 👥 **Player Lobby** | Multiplayer | Real-time player sessions |
+| 👥 **Player Lobby** | Multiplayer | Real-time player sessions | ( in Progress )
 | 💾 **Archive** | Backup/Export | JSON export & import |
 | 🌍 **Language System** | Localization | German & English |
 
@@ -538,7 +538,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 
 **Technologies:**
 - 🌐 **Frontend:** HTML5, CSS3, Vanilla JavaScript
-- 🔗 **Multiplayer:** Socket.IO for real-time communication
+- 🔗 **Multiplayer:** Socket.IO for real-time communication ( in Progress )
 - 🤖 **AI:** Groq API (free LLM service)
 - 🎨 **UI Libraries:** Marked.js (Markdown), Tone.js (Audio)
 - 📱 **Responsive:** Mobile-optimized
@@ -595,7 +595,7 @@ Q2 2026  ████████░░  40% ACTIVE
 └─ ⏳ Implement API caching
 
 Q3 2026  ████░░░░░░  20% PLANNED
-├─ ⏳ Refactor multiplayer lobby
+├─ ⏳ Refactor multiplayer lobby ( in Progress )
 ├─ ⏳ Conduct performance tests
 ├─ ⏳ Integrate community feedback
 ├─ ⏳ Mobile app preparation
@@ -655,7 +655,7 @@ Status: 🟠 BETA - Active Development
 
 Powered by:
 • Groq API (AI)
-• Socket.IO (Multiplayer)
+• Socket.IO (Multiplayer) ( in Progress )
 • Marked.js (Markdown)
 • Tone.js (Audio)
 
