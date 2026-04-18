@@ -358,7 +358,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 
 ```
 ┌─────────────────────────────────────┐
-│ CREATURE EDITOR                     ���
+│ CREATURE EDITOR                     │
 ├─────────────────────────────────────┤
 │                                     │
 │ 📋 BASIS TAB (👹)                  │
@@ -369,7 +369,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 │   • XP calculation (automatic)      │
 │                                     │
 │ ⚔️ STATS TAB (⚔️)                  │
-│   • 6 Attributes (STR, DEX, CON)   │
+│   • 6 Attributes (STR, DEX, CON)    │
 │   • Armor Class (AC)                │
 │   • Hit Points (HP)                 │
 │   • Movement Speed                  │
@@ -382,7 +382,7 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 │   • Immunities                      │
 │   • Special traits & abilities      │
 │                                     │
-│ 🔥 ACTIONS TAB (🔥)               │
+│ 🔥 ACTIONS TAB (🔥)                │
 │   • Regular actions                 │
 │   • Reactions                       │
 │   • Legendary actions               │
@@ -394,9 +394,9 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 │   • Encounter text (to read aloud)  │
 │   • Loot & drops                    │
 │   • Coins/currency                  │
-│   • 🤖 AI-generated loot/lore      │
+│   • 🤖 AI-generated loot/lore       │
 │                                     │
-│ 🎯 EXTRAS:                          │
+│ 🎯 EXTRAS:                         │
 │   • AI: Monster (Stats & Lore)      │
 │   • Show preview                    │
 │   • Clear button                    │
@@ -457,11 +457,11 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 
 ```
 ┌─────────────────────────────────────┐
-│ 🤖 AI-DUNGEON-MASTER-ASSISTANT     │
+│ 🤖 AI-DUNGEON-MASTER-ASSISTANT      │
 │                                     │
 │ Quick Buttons:                      │
 │ 💡 Plot Twist                       │
-│ 🎭 NPC Idea                        │
+│ 🎭 NPC Idea                         │
 │ ⚔️ Encounter Generator              │
 │ 🧩 Puzzles & Riddles                │
 │ 💰 Loot Generation                  │
