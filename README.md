@@ -649,7 +649,7 @@ Q4 2026  ██░░░░░░░░  10% PLANNED
 ```
 Created with ❤️ by DonTekz
 
-Version: 1.1.0 (Offline AI Update)
+Version: 1.1.4 (Offline AI Update)
 Last Updated: 2026-04-18
 Status: 🟠 BETA - Active Development
 
