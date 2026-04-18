@@ -1,7 +1,7 @@
 # 🔮 **OCULUM - RPG TOOLSET**
 
 > **Status:** 🟠 **BETA - Intensive Entwicklung aktiv**  
-> **Version:** 1.1.0 | **Created by:** DonTekz | **Last Updated:** 2026-04-18
+> **Version:** 1.1.4 | **Created by:** DonTekz | **Last Updated:** 2026-04-18
 
 ---
 
@@ -30,14 +30,14 @@
 ┃                                    ┃
 ┃   "Schmiede dein Schicksal"        ┃
 ┃                                    ┃
-┃   🎲 Dungeons & Dragons Helper     ┃
+┃   🎲 RPG Helper     ┃
 ┃   🤖 KI-Assistent integriert       ┃
 ┃   👥 Multiplayer-fähig             ┃
 ┃   🎨 Fantasy-Design inkl.          ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-**Oculum** ist ein umfassendes **RPG-Management-Tool** für Dungeons & Dragons (D&D) und andere Tabletop-Rollenspiele. Mit diesem Beta-Toolset kannst du:
+**Oculum** ist ein umfassendes **RPG-Management-Tool** Tabletop-Rollenspiele. Mit diesem Beta-Toolset kannst du:
 
 - 🐉 **Kreaturen erstellen** (Monster, NPCs, Bosse)
 - ⚔️ **Gegenstände & Items** designen
@@ -331,14 +331,14 @@ Q4 2026  ██░░░░░░░░  10% GEPLANT
 ┃                                    ┃
 ┃   "Forge Your Destiny"             ┃
 ┃                                    ┃
-┃   🎲 Dungeons & Dragons Helper     ┃
+┃   🎲 RPG Helper     ┃
 ┃   🤖 AI-Assistant Integrated       ┃
 ┃   👥 Multiplayer-Ready             ┃
 ┃   🎨 Fantasy Design Included       ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-**Oculum** is a comprehensive **RPG Management Tool** designed for Dungeons & Dragons (D&D) and other tabletop role-playing games. With this Beta toolset, you can:
+**Oculum** is a comprehensive **RPG Management Tool** designed tabletop role-playing games. With this Beta toolset, you can:
 
 - 🐉 **Create Creatures** (Monsters, NPCs, Bosses)
 - ⚔️ **Design Items & Loot**
